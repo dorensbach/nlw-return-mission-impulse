@@ -1,4 +1,14 @@
 # NLW Return – Mission Impulse
+
+```
+Colocar aqui instruções de como configurar o ambiente (download node),
+versões utilizadas (colocar o resultado de node -v e npm -v)
+comando usado para criar o projeto
+como instalar as dependendias via npm
+como rodar o servidor com npm ... dev
+```
+
+***
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
 
 ## Cronograma:
