@@ -1,20 +1,32 @@
 # NLW Return – Mission Impulse
 
 Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)
+
 Versão que tenho instalado (node -v): v15.6.0
+
 Versão NPM instalada (npm -v): 8.5.5
 
 Criar um projeto:
 `npm create vite@latest`
+
 Project name: *web*
+
 Select a framework: *react*
+
 Select a variant: *react-ts*
+
 `cd web`
+
 Instalar as dependencias: `npm install`
+
 Para rodar o projeto: `npm run dev`
+
 Instalar o Tailwind CSS: `npm install -D tailwindcss postcss autoprefixer`
+
 Criar o tailwind.config.js e postcss.config.css: `npx tailwindcss init -p`
+
 Instalar pacote de ícones phosphor-react: `npm install phosphor-react`
+
 Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 
 ***
