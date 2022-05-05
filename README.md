@@ -36,7 +36,7 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 
 * 02 mai/segunda 08:00h - Stage 1 – A aplicação será revelada
 * 03 mai/terça 08:00h - Stage 2 – Aceleração máxima
-* 04 mai/quarta
+* 04 mai/quarta 08:00h - Stage 3 – Novas Habilidades
 * 05 mai/quinta
 * 06 mai/sexta
 
@@ -51,7 +51,12 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 
 >A decolagem foi um sucesso e já alcançamos a velocidade máxima. Mas nossa missão está apenas começando e não podemos parar de aprender. Nessa aula nós vamos finalizar o desenvolvimento do front-end web da nossa aplicação utilizando ReactJS. Você vai aprender sobre conceitos de passagem de funções como propriedades e criar o fluxo de navegação para envio de feedbacks.
 
+## Stage 3 – Novas Habilidades
+
+>Você está cada vez mais perto do próximo nível e hoje é o dia de adquirir novas habilidades. Nessa aula vamos construir o back-end da aplicação utilizando Node.js e TypeScript. Você vai conhecer conceitos importantes do back-end como SOLID e testes automatizados, além de aprender como persistir informações no banco de dados com Prisma.
 
 ## Material complementar
 
 Para preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso projeto finalizado. Nas aulas mencionamos algumas documentações, então vamos centralizar todas elas por aqui para facilitar!
+
+[Figma do projeto](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
