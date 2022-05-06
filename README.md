@@ -1,7 +1,7 @@
-# NLW Return – Mission Impulse\
-Github: (https://github.com/dorensbach/nlw-return-mission-impulse)\
+# NLW Return – Mission Impulse
+#### Github: (https://github.com/dorensbach/nlw-return-mission-impulse)
 ---
-Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)\
+Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)
 >(Versão instalada (node -v): v16.15.0\
 (Versão NPM instalada (npm -v): 8.5.5
 
@@ -16,7 +16,7 @@ Para rodar o projeto: `npm run dev`\
 Instalar o Tailwind CSS: `npm install -D tailwindcss postcss autoprefixer`\
 Criar o tailwind.config.js e postcss.config.css: `npx tailwindcss init -p`\
 Instalar pacote de ícones phosphor-react: `npm install phosphor-react`\
-Instalar Headless UI (acessibilidade): `npm install @headlessui/react`\
+Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 
 ***
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
