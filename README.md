@@ -40,10 +40,12 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`\
 >A decolagem foi um sucesso e já alcançamos a velocidade máxima. Mas nossa missão está apenas começando e não podemos parar de aprender. Nessa aula nós vamos finalizar o desenvolvimento do front-end web da nossa aplicação utilizando ReactJS. Você vai aprender sobre conceitos de passagem de funções como propriedades e criar o fluxo de navegação para envio de feedbacks.
 
 ## Stage 3 – Novas Habilidades
+(https://nextlevelweek.com/episodios/impulse/aula-3/edicao/8)
 
 >Você está cada vez mais perto do próximo nível e hoje é o dia de adquirir novas habilidades. Nessa aula vamos construir o back-end da aplicação utilizando Node.js e TypeScript. Você vai conhecer conceitos importantes do back-end como SOLID e testes automatizados, além de aprender como persistir informações no banco de dados com Prisma.
 
 ## Stage 4 – Um novo território
+(https://nextlevelweek.com/episodios/impulse/aula-4/edicao/8)
 
 >Nessa aula você vai entender como acelerar o processo de aprendizado. Além disso, descobriremos um novo território: o Mobile. E quem vai estar junto contigo nessa aula codando a parte mobile da nossa aplicação, é o Rodrigo Gonçalves, educator aqui na Rocketseat e mestre em educação com ênfase em tecnologia.
 
