@@ -1,15 +1,11 @@
 # NLW Return – Mission Impulse
 
-Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)
-
-Versão que tenho instalado (node -v): v15.6.0
-
-Versão NPM instalada (npm -v): 8.5.5
-
-Criar um projeto:
-`npm create vite@latest`
-
-Project name: *web*
+Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)\
+Versão que tenho instalado (node -v): v16.15.0\
+Versão NPM instalada (npm -v): 8.5.5\
+Criar um projeto:\
+`npm create vite@latest`\
+Project name: *web*\
 
 Select a framework: *react*
 
@@ -37,7 +33,7 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 * 02 mai/segunda 08:00h - Stage 1 – A aplicação será revelada
 * 03 mai/terça 08:00h - Stage 2 – Aceleração máxima
 * 04 mai/quarta 08:00h - Stage 3 – Novas Habilidades
-* 05 mai/quinta
+* 05 mai/quinta 08:00h - Stage 4 – Um novo território
 * 06 mai/sexta
 
 
@@ -54,6 +50,10 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 ## Stage 3 – Novas Habilidades
 
 >Você está cada vez mais perto do próximo nível e hoje é o dia de adquirir novas habilidades. Nessa aula vamos construir o back-end da aplicação utilizando Node.js e TypeScript. Você vai conhecer conceitos importantes do back-end como SOLID e testes automatizados, além de aprender como persistir informações no banco de dados com Prisma.
+
+## Stage 4 – Um novo território
+
+>Nessa aula você vai entender como acelerar o processo de aprendizado. Além disso, descobriremos um novo território: o Mobile. E quem vai estar junto contigo nessa aula codando a parte mobile da nossa aplicação, é o Rodrigo Gonçalves, educator aqui na Rocketseat e mestre em educação com ênfase em tecnologia.
 
 ## Material complementar
 
