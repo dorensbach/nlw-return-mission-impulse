@@ -16,7 +16,9 @@ Para rodar o projeto: `npm run dev`\
 Instalar o Tailwind CSS: `npm install -D tailwindcss postcss autoprefixer`\
 Criar o tailwind.config.js e postcss.config.css: `npx tailwindcss init -p`\
 Instalar pacote de ícones phosphor-react: `npm install phosphor-react`\
-Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
+Instalar Headless UI (acessibilidade): `npm install @headlessui/react`\
+Instalar o tailwindcss/forms: `npm install -D @tailwindcss/forms`\
+Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`
 
 ***
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
@@ -27,7 +29,7 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 * 03 mai/terça 08:00h - Stage 2 – Aceleração máxima
 * 04 mai/quarta 08:00h - Stage 3 – Novas Habilidades
 * 05 mai/quinta 08:00h - Stage 4 – Um novo território
-* 06 mai/sexta
+* 06 mai/sexta 08:00h - Stage 5 - A descoberta
 
 
 ## Stage 1 – A aplicação será revelada
@@ -50,8 +52,14 @@ Instalar Headless UI (acessibilidade): `npm install @headlessui/react`
 
 >Nessa aula você vai entender como acelerar o processo de aprendizado. Além disso, descobriremos um novo território: o Mobile. E quem vai estar junto contigo nessa aula codando a parte mobile da nossa aplicação, é o Rodrigo Gonçalves, educator aqui na Rocketseat e mestre em educação com ênfase em tecnologia.
 
+## Stage 5 - A descoberta
+(https://nextlevelweek.com/episodios/origin/aula-5/edicao/8)
+
+>Existe um detalhe em específico que ainda não foi revelado. E ele é primordial pra você se tornar um destaque no mercado e finalmente ter acesso à sua primeira oportunidade ou uma boa vaga disponível que você almeja. Você está pronto(a) para saber o que te espera?
+
 ## Material complementar
 
 Para preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso projeto finalizado. Nas aulas mencionamos algumas documentações, então vamos centralizar todas elas por aqui para facilitar!
 
 [Figma do projeto](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
+[Notion do projeto](https://efficient-sloth-d85.notion.site/Impulse-58f2daadb8e1433894420cbc57571087)
