@@ -19,7 +19,7 @@ Instalar pacote de ícones phosphor-react: `npm install phosphor-react`\
 Instalar Headless UI (acessibilidade): `npm install @headlessui/react`\
 Instalar o tailwindcss/forms: `npm install -D @tailwindcss/forms`\
 Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`\
-Instalara a biblioteca html2canvas: `npm install html2canvas`
+Instalar a biblioteca html2canvas: `npm install html2canvas`
 
 ***
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
