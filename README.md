@@ -62,5 +62,5 @@ Instalar a biblioteca html2canvas: `npm install html2canvas`
 
 Para preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso projeto finalizado. Nas aulas mencionamos algumas documentações, então vamos centralizar todas elas por aqui para facilitar!
 
-[Figma do projeto](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
+[Figma do projeto](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)\
 [Notion do projeto](https://efficient-sloth-d85.notion.site/Impulse-58f2daadb8e1433894420cbc57571087)
