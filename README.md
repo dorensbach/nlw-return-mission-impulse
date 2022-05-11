@@ -1,6 +1,8 @@
 # NLW Return – Mission Impulse
 ##### Github: (https://github.com/dorensbach/nlw-return-mission-impulse)
 
+Acrescentar aqui uma imagem da aplicação pronta
+
 Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)
 >(Versão instalada (node -v): v16.15.0\
 (Versão NPM instalada (npm -v): 8.5.5
@@ -22,6 +24,8 @@ Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`\
 Instalar a biblioteca html2canvas: `npm install html2canvas`
 
 ***
+#### Texto original da Rocketseat\
+Apagar textos descritivos e deixar apenas os títulos, links, datas e horários\
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
 
 ## Cronograma:
