@@ -1,12 +1,13 @@
 # NLW Return – Mission Impulse
 ##### Github: (https://github.com/dorensbach/nlw-return-mission-impulse)
 
-Acrescentar aqui uma imagem da aplicação pronta
+>Acrescentar aqui uma imagem da aplicação pronta
 
 Instalar a versão LTS mais recente do [Node.JS](https://nodejs.org)
 >(Versão instalada (node -v): v16.15.0\
 (Versão NPM instalada (npm -v): 8.5.5
 
+## Web
 Criar um projeto:\
 `npm create vite@latest`\
 Project name: *web*\
@@ -23,9 +24,21 @@ Instalar o tailwindcss/forms: `npm install -D @tailwindcss/forms`\
 Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`\
 Instalar a biblioteca html2canvas: `npm install html2canvas`
 
+## Server
+`npm init -y` Cria um package.json para o projeto. Usa-se quando o projeto será configurado do zero, provavelmente sem um framework.
+Instala o typescript: `npm i typescript @types/node ts-node-dev -D`
+Cria o arquivo tsconfig.json: `npx tsc --init` (também pode ser `npx typescript --init`)
+`npx tsc`: Inicializa as(ou algumas) configurações que estão no tsconfig.json, como rootDir e outDir.
+Biblioteca Express (usado para lidar rotas):`npm i express`
+Biblioteca de tipagem para o Express funcionar com typescript: `npm i -D @types/express`
+Instalar [Prisma ORM](https://www.prisma.io/) como dependência de desenvolvimento: `npm i prisma -D`
+Prisma para produção: `npm i @prisma/client`
+`npx prisma init`: Cria um diretório chamado prisma e o .env
+
 ***
-#### Texto original da Rocketseat\
-Apagar textos descritivos e deixar apenas os títulos, links, datas e horários\
+#### Texto original da Rocketseat
+Apagar textos descritivos e deixar apenas os títulos, links, datas e horários
+
 ### De 02 a 08 de maio vamos construir juntos uma aplicação completa e acelerar sua evolução para o próximo nível na programação.
 
 ## Cronograma:
