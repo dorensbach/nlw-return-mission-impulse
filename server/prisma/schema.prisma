@@ -6,6 +6,20 @@ generator client {
 }
 
 datasource db {
-  provider = "postgresql"
+  provider = "sqlite"
   url      = env("DATABASE_URL")
+}
+
+// A tabela sera criada com o mesmo nome da Model, a não ser que se use o @@map()
+// Para um campo opconal (como a screenshot) adicionar um "?"
+// Para a Primary Key, usar "@"
+// Para auto incremento, usar o tipo Int e @default(autoincrement())
+// @default(uuid) Universal Unique ID
+model Feedback {
+    id String @id @default(uuid)
+
+    type String
+    comment String
+    screenshot String?
+    @@map("feedbacks")
 }

@@ -17,7 +17,7 @@ Select a variant: *react-ts*\
 Instalar as dependencias: `npm install`\
 Para rodar o projeto: `npm run dev`\
 Instalar o Tailwind CSS: `npm install -D tailwindcss postcss autoprefixer`\
-Criar o tailwind.config.js e postcss.config.css: `npx tailwindcss init -p`\
+Criar o tailwind.config.js e postcss.config.css: `npx tailwfile:./dev.dbindcss init -p`\
 Instalar pacote de ícones phosphor-react: `npm install phosphor-react`\
 Instalar Headless UI (acessibilidade): `npm install @headlessui/react`\
 Instalar o tailwindcss/forms: `npm install -D @tailwindcss/forms`\
@@ -25,15 +25,17 @@ Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`\
 Instalar a biblioteca html2canvas: `npm install html2canvas`
 
 ## Server ()
-`npm init -y` Cria um package.json para o projeto. Usa-se quando o projeto será configurado do zero, provavelmente sem um framework.\
+`npm init -y` Cria um package.json para o projeto. Usa-se quando o projeto será configurado do zero, provavelmente sem um framework\
 Instala o typescript: `npm i typescript @types/node ts-node-dev -D`\
 Cria o arquivo tsconfig.json: `npx tsc --init` (também pode ser `npx typescript --init`)\
-`npx tsc`: Inicializa as(ou algumas) configurações que estão no tsconfig.json, como rootDir e outDir.\
+`npx tsc`: Inicializa as(ou algumas) configurações que estão no tsconfig.json, como rootDir e outDir\
 Biblioteca Express (usado para lidar rotas):`npm i express`\
 Biblioteca de tipagem para o Express funcionar com typescript: `npm i -D @types/express`\
 Instalar [Prisma ORM](https://www.prisma.io/) como dependência de desenvolvimento: `npm i prisma -D`\
 Prisma para produção: `npm i @prisma/client`\
 `npx prisma init`: Cria um diretório chamado prisma e o .env\
+Rodar as alterações pro BD: `npx prisma migrate dev`\
+`npx prisma studio`: Sobe uma aplicação para ver o banco na porta [5555](localhost:5555)
 
 ***
 #### Texto original da Rocketseat
