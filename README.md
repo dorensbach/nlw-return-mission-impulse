@@ -35,7 +35,11 @@ Instalar [Prisma ORM](https://www.prisma.io/) como dependência de desenvolvimen
 Prisma para produção: `npm i @prisma/client`\
 `npx prisma init`: Cria um diretório chamado prisma e o .env\
 Rodar as alterações pro BD: `npx prisma migrate dev`\
-`npx prisma studio`: Sobe uma aplicação para ver o banco na porta [5555](localhost:5555)
+`npx prisma studio`: Sobe uma aplicação para ver o banco na porta [5555](localhost:5555)\
+Para rodar o projeto: `npm run dev`\
+Para envio de emails, instalar biblioteca nodemailer: `npm install nodemailer`\
+Tipagem para o nodemailer: `npm install @types/nodemailer -D`\
+Serviço para envio de email: [Mailtrap](mailtrap.io)
 
 ***
 #### Texto original da Rocketseat

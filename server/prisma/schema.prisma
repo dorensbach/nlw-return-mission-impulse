@@ -16,10 +16,11 @@ datasource db {
 // Para auto incremento, usar o tipo Int e @default(autoincrement())
 // @default(uuid) Universal Unique ID
 model Feedback {
-    id String @id @default(uuid)
+    id String @id @default(uuid())
 
     type String
     comment String
     screenshot String?
+
     @@map("feedbacks")
 }
