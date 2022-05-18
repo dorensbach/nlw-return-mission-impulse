@@ -39,7 +39,7 @@ Rodar as alterações pro BD: `npx prisma migrate dev`\
 Para rodar o projeto: `npm run dev`\
 Para envio de emails, instalar biblioteca nodemailer: `npm install nodemailer`\
 Tipagem para o nodemailer: `npm install @types/nodemailer -D`\
-Serviço para envio de email: [Mailtrap](mailtrap.io)
+Serviço para envio de email: [Mailtrap](https://mailtrap.io/)
 
 ***
 #### Texto original da Rocketseat
