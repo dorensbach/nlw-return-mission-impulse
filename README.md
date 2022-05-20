@@ -24,7 +24,7 @@ Instalar o tailwindcss/forms: `npm install -D @tailwindcss/forms`\
 Instalar o tailwind-scrollbar: `npm install --save-dev tailwind-scrollbar`\
 Instalar a biblioteca html2canvas: `npm install html2canvas`
 
-## Server ()
+## Server (Node.JS)
 `npm init -y` Cria um package.json para o projeto. Usa-se quando o projeto será configurado do zero, provavelmente sem um framework\
 Instala o typescript: `npm i typescript @types/node ts-node-dev -D`\
 Cria o arquivo tsconfig.json: `npx tsc --init` (também pode ser `npx typescript --init`)\
@@ -39,7 +39,13 @@ Rodar as alterações pro BD: `npx prisma migrate dev`\
 Para rodar o projeto: `npm run dev`\
 Para envio de emails, instalar biblioteca nodemailer: `npm install nodemailer`\
 Tipagem para o nodemailer: `npm install @types/nodemailer -D`\
-Serviço para envio de email: [Mailtrap](https://mailtrap.io/)
+Serviço para envio de email: [Mailtrap](https://mailtrap.io/)\
+Jest: Ferramenta de testes. `npm install jest -D`\
+Inicialização da configuração do Jest: `npx jest --init`\
+Para o Jest lidar com arquivo de configuração com extensão TS: `npm install ts-node -D`\
+Compilador Javascript, muito mais rápido do que o babel: [SWC](https://swc.rs/) `npm i -D @swc/core @swc/jest`\
+Tipagens do Jest: `npm i @types/jest -D`
+Para rodar os testes: `npm run test`
 
 ***
 #### Texto original da Rocketseat
